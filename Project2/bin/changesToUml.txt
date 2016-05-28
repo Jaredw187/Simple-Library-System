@@ -1,0 +1,5 @@
+My changes to my first uml document include:
+
+1) completely trashing it. as in i re-wrote everything from scratch.
+2) re-create a similar structure with an extra class to account for items being checked out.
+3) adding new methods for data interaction that lacked in the first attempt at building a umlDiagram
